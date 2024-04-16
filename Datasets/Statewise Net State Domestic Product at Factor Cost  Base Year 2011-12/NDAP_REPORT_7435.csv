@@ -1,0 +1,681 @@
+Rowid,Country,State lgd code,State,Yearcode,Year,Base year - 2011-12,Price type,Net state domestic product ( nsdp ) at factor cost for the base year 2011-12
+1,India,1,Jammu And Kashmir,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,62384.360767309701975226667473
+2,India,1,Jammu And Kashmir,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,62384.360767309701975226667473
+3,India,1,Jammu And Kashmir,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,62156.441809007158905934117049
+4,India,1,Jammu And Kashmir,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,67440.223556751093307650247104
+5,India,1,Jammu And Kashmir,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,64708.941900493521326682279368
+6,India,1,Jammu And Kashmir,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,73061.017549453437928656774545
+7,India,1,Jammu And Kashmir,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,61214.669920140484616452862323
+8,India,1,Jammu And Kashmir,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,74131.686221080442844097177314
+9,India,1,Jammu And Kashmir,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,73351.019929583379779989762861
+10,India,1,Jammu And Kashmir,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,89845.810411277967790098080988
+11,India,1,Jammu And Kashmir,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,75418.326296944942399249194518
+12,India,1,Jammu And Kashmir,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,95785.374442575196738107236628
+13,India,1,Jammu And Kashmir,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,77681.033914815838100512720823
+14,India,1,Jammu And Kashmir,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,104583.566969447470446226643845
+15,India,1,Jammu And Kashmir,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,83609.939175009213557074160386
+16,India,1,Jammu And Kashmir,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,119340.081697104383580150924814
+17,India,1,Jammu And Kashmir,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,85111.047270615642618429322835
+18,India,1,Jammu And Kashmir,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,126593.517213096223980784989519
+19,India,1,Jammu And Kashmir,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,84692.422962015060318440946946
+20,India,1,Jammu And Kashmir,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,129811.805751474320609035213836
+21,India,2,Himachal Pradesh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,57219.1998
+22,India,2,Himachal Pradesh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,57219.2033
+23,India,2,Himachal Pradesh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,61259.9318
+24,India,2,Himachal Pradesh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,65520.8901
+25,India,2,Himachal Pradesh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,65840.8323
+26,India,2,Himachal Pradesh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,74722.292
+27,India,2,Himachal Pradesh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,70594.6914
+28,India,2,Himachal Pradesh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,80904.5251
+29,India,2,Himachal Pradesh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,76214.5115
+30,India,2,Himachal Pradesh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,89867.8566
+31,India,2,Himachal Pradesh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,83374.46
+32,India,2,Himachal Pradesh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,100220.07
+33,India,2,Himachal Pradesh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,88248.454
+34,India,2,Himachal Pradesh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,107751.9293
+35,India,2,Himachal Pradesh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,93507.7389
+36,India,2,Himachal Pradesh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,118967.8922
+37,India,2,Himachal Pradesh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,97989.6391
+38,India,2,Himachal Pradesh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,129449.2739
+39,India,2,Himachal Pradesh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,91993.8144
+40,India,2,Himachal Pradesh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,124830.4663
+41,India,3,Punjab,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,226372.95
+42,India,3,Punjab,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,226372.95
+43,India,3,Punjab,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,236390.91
+44,India,3,Punjab,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,250220.49
+45,India,3,Punjab,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,247316.49
+46,India,3,Punjab,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,274090.14
+47,India,3,Punjab,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,256453.18
+48,India,3,Punjab,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,290422.94
+49,India,3,Punjab,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,270051.67
+50,India,3,Punjab,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,313078.76
+51,India,3,Punjab,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,287907.9024
+52,India,3,Punjab,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,343397.8387
+53,India,3,Punjab,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,304337.4157
+54,India,3,Punjab,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,378634.3677
+55,India,3,Punjab,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,320454.15
+56,India,3,Punjab,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,410697.2302
+57,India,3,Punjab,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,332587.3636
+58,India,3,Punjab,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,429055.9969
+59,India,3,Punjab,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,313719.1515
+60,India,3,Punjab,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,426719.4285
+61,India,4,Chandigarh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,16893.33
+62,India,4,Chandigarh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,16893.33
+63,India,4,Chandigarh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,18263.15
+64,India,4,Chandigarh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,19459.48
+65,India,4,Chandigarh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,19640.73
+66,India,4,Chandigarh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,22099.82
+67,India,4,Chandigarh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,20203.97
+68,India,4,Chandigarh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,23474.61
+69,India,4,Chandigarh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,21653.57
+70,India,4,Chandigarh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,25384.16
+71,India,4,Chandigarh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,23466.4301
+72,India,4,Chandigarh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,28249.5157
+73,India,4,Chandigarh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,24049.15
+74,India,4,Chandigarh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,30251.18
+75,India,4,Chandigarh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,25019.9
+76,India,4,Chandigarh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,32988.52
+77,India,4,Chandigarh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,26385.49
+78,India,4,Chandigarh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,36363.86
+79,India,4,Chandigarh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+80,India,4,Chandigarh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+81,India,5,Uttarakhand,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,94965.0
+82,India,5,Uttarakhand,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,94965.0
+83,India,5,Uttarakhand,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,101922.0
+84,India,5,Uttarakhand,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,109177.0
+85,India,5,Uttarakhand,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,109140.0
+86,India,5,Uttarakhand,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,122244.0
+87,India,5,Uttarakhand,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,116673.0
+88,India,5,Uttarakhand,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,132837.0
+89,India,5,Uttarakhand,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,125752.6044
+90,India,5,Uttarakhand,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,144709.2403
+91,India,5,Uttarakhand,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,137862.2393
+92,India,5,Uttarakhand,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,159891.3152
+93,India,5,Uttarakhand,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,148406.0
+94,India,5,Uttarakhand,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,178070.0
+95,India,5,Uttarakhand,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,156450.0
+96,India,5,Uttarakhand,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,194915.0
+97,India,5,Uttarakhand,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,162378.0
+98,India,5,Uttarakhand,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,207785.0
+99,India,5,Uttarakhand,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+100,India,5,Uttarakhand,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+101,India,6,Haryana,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,247688.5893
+102,India,6,Haryana,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,247688.5893
+103,India,6,Haryana,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,262444.8754
+104,India,6,Haryana,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,287215.4897
+105,India,6,Haryana,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,283483.2399
+106,India,6,Haryana,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,330495.0591
+107,India,6,Haryana,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,297793.8541
+108,India,6,Haryana,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,355719.7513
+109,India,6,Haryana,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,326703.0
+110,India,6,Haryana,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,389889.8182
+111,India,6,Haryana,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,358956.0
+112,India,6,Haryana,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,437300.0
+113,India,6,Haryana,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,381946.683
+114,India,6,Haryana,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,491986.2788
+115,India,6,Haryana,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,404410.1198
+116,India,6,Haryana,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,544863.1701
+117,India,6,Haryana,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,437077.5123
+118,India,6,Haryana,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,602498.5348
+119,India,6,Haryana,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,414820.9815
+120,India,6,Haryana,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,591307.8957
+121,India,7,Delhi,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,274085.0113
+122,India,7,Delhi,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,274085.0113
+123,India,7,Delhi,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,288497.3631
+124,India,7,Delhi,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,308600.0092
+125,India,7,Delhi,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,305243.8979
+126,India,7,Delhi,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,346812.0315
+127,India,7,Delhi,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,335131.3552
+128,India,7,Delhi,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,387924.7328
+129,India,7,Delhi,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,367024.5367
+130,India,7,Delhi,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,428501.4924
+131,India,7,Delhi,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,387816.951
+132,India,7,Delhi,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,473635.9298
+133,India,7,Delhi,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,408949.0555
+134,India,7,Delhi,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,522631.0798
+135,India,7,Delhi,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,434932.7676
+136,India,7,Delhi,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,583363.4308
+137,India,7,Delhi,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,472276.3675
+138,India,7,Delhi,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,659603.8311
+139,India,7,Delhi,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,445521.2198
+140,India,7,Delhi,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,633178.5697
+141,India,8,Rajasthan,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,377477.83
+142,India,8,Rajasthan,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,377477.84
+143,India,8,Rajasthan,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,389759.17
+144,India,8,Rajasthan,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,424894.26
+145,India,8,Rajasthan,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,409832.61
+146,India,8,Rajasthan,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,466553.58
+147,India,8,Rajasthan,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,437602.58
+148,India,8,Rajasthan,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,519521.22
+149,India,8,Rajasthan,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,467478.86
+150,India,8,Rajasthan,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,572190.92
+151,India,8,Rajasthan,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,496002.0
+152,India,8,Rajasthan,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,644011.0
+153,India,8,Rajasthan,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,516392.7938
+154,India,8,Rajasthan,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,699779.9213
+155,India,8,Rajasthan,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,534637.9046
+156,India,8,Rajasthan,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,772780.3554
+157,India,8,Rajasthan,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,561217.8252
+158,India,8,Rajasthan,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,837789.3389
+159,India,8,Rajasthan,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,527448.4324
+160,India,8,Rajasthan,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,804101.1413
+161,India,9,Uttar Pradesh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,602975.7
+162,India,9,Uttar Pradesh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,602975.6999
+163,India,9,Uttar Pradesh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,631686.59
+164,India,9,Uttar Pradesh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,687807.98
+165,India,9,Uttar Pradesh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,659730.37
+166,India,9,Uttar Pradesh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,779033.67
+167,India,9,Uttar Pradesh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,676190.893
+168,India,9,Uttar Pradesh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,829001.84
+169,India,9,Uttar Pradesh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,735381.76
+170,India,9,Uttar Pradesh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,929229.04
+171,India,9,Uttar Pradesh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,829267.0
+172,India,9,Uttar Pradesh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,1053820.0
+173,India,9,Uttar Pradesh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,860072.5166
+174,India,9,Uttar Pradesh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,1155870.104
+175,India,9,Uttar Pradesh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,912524.8427
+176,India,9,Uttar Pradesh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,1278528.944
+177,India,9,Uttar Pradesh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,949103.189
+178,India,9,Uttar Pradesh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,1354384.325
+179,India,9,Uttar Pradesh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,894443.22
+180,India,9,Uttar Pradesh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,1348892.09
+181,India,10,Bihar,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,223051.9805
+182,India,10,Bihar,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,223051.9798
+183,India,10,Bihar,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,231691.081
+184,India,10,Bihar,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,255658.015
+185,India,10,Bihar,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,237927.2376
+186,India,10,Bihar,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,281726.8134
+187,India,10,Bihar,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,245674.4086
+188,India,10,Bihar,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,307980.4907
+189,India,10,Bihar,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,258801.0111
+190,India,10,Bihar,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,332672.1902
+191,India,10,Bihar,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,277408.0
+192,India,10,Bihar,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,374284.6599
+193,India,10,Bihar,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,303403.8094
+194,India,10,Bihar,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,420796.4602
+195,India,10,Bihar,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,331154.6513
+196,India,10,Bihar,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,465979.2277
+197,India,10,Bihar,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,347548.3429
+198,India,10,Bihar,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,516906.4068
+199,India,10,Bihar,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,349069.975
+200,India,10,Bihar,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,529137.9961
+201,India,11,Sikkim,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,9469.18
+202,India,11,Sikkim,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,9469.18
+203,India,11,Sikkim,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,9630.96
+204,India,11,Sikkim,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,10445.75
+205,India,11,Sikkim,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,10128.38
+206,India,11,Sikkim,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,11657.93
+207,India,11,Sikkim,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,10960.28
+208,India,11,Sikkim,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,12993.98
+209,India,11,Sikkim,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,11853.79
+210,India,11,Sikkim,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,14952.01
+211,India,11,Sikkim,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,12603.8244
+212,India,11,Sikkim,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,17072.1709
+213,India,11,Sikkim,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,13857.3132
+214,India,11,Sikkim,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,20855.7755
+215,India,11,Sikkim,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,14939.593
+216,India,11,Sikkim,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,23353.1069
+217,India,11,Sikkim,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,15812.8609
+218,India,11,Sikkim,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,25401.015
+219,India,11,Sikkim,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,16365.6528
+220,India,11,Sikkim,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,26968.077
+221,India,12,Arunachal Pradesh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,10021.47
+222,India,12,Arunachal Pradesh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,10021.47
+223,India,12,Arunachal Pradesh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,10267.88
+224,India,12,Arunachal Pradesh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,11474.15
+225,India,12,Arunachal Pradesh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,10966.5
+226,India,12,Arunachal Pradesh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,13072.86
+227,India,12,Arunachal Pradesh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,12727.81
+228,India,12,Arunachal Pradesh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,16073.91
+229,India,12,Arunachal Pradesh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,12414.4
+230,India,12,Arunachal Pradesh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,16432.46
+231,India,12,Arunachal Pradesh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,12552.92
+232,India,12,Arunachal Pradesh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,17365.73
+233,India,12,Arunachal Pradesh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,13173.31
+234,India,12,Arunachal Pradesh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,19664.2
+235,India,12,Arunachal Pradesh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,13931.25
+236,India,12,Arunachal Pradesh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,21777.54
+237,India,12,Arunachal Pradesh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,15225.09
+238,India,12,Arunachal Pradesh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,24613.0
+239,India,12,Arunachal Pradesh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+240,India,12,Arunachal Pradesh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+241,India,13,Nagaland,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,10444.2719
+242,India,13,Nagaland,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,10444.3057
+243,India,13,Nagaland,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,11062.1463
+244,India,13,Nagaland,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,12209.3235
+245,India,13,Nagaland,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,11758.0153
+246,India,13,Nagaland,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,14354.0964
+247,India,13,Nagaland,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,12304.8591
+248,India,13,Nagaland,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,15947.6901
+249,India,13,Nagaland,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,12387.1086
+250,India,13,Nagaland,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,16876.4994
+251,India,13,Nagaland,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,13088.8838
+252,India,13,Nagaland,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,18697.4528
+253,India,13,Nagaland,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,13645.845
+254,India,13,Nagaland,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,21011.8707
+255,India,13,Nagaland,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,14597.5229
+256,India,13,Nagaland,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,22810.6949
+257,India,13,Nagaland,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,14972.7204
+258,India,13,Nagaland,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,25416.5547
+259,India,13,Nagaland,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+260,India,13,Nagaland,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+261,India,14,Manipur,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,11315.5858
+262,India,14,Manipur,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,11315.5858
+263,India,14,Manipur,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,11497.9126
+264,India,14,Manipur,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,12169.5376
+265,India,14,Manipur,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,12223.6023
+266,India,14,Manipur,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,14097.0666
+267,India,14,Manipur,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,13395.65
+268,India,14,Manipur,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,16012.6
+269,India,14,Manipur,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,14189.97
+270,India,14,Manipur,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,16995.61
+271,India,14,Manipur,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,14462.05
+272,India,14,Manipur,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,18276.72
+273,India,14,Manipur,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,16274.86
+274,India,14,Manipur,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,22807.15
+275,India,14,Manipur,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,16509.29
+276,India,14,Manipur,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,24411.42
+277,India,14,Manipur,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,17779.1447
+278,India,14,Manipur,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,28108.0155
+279,India,14,Manipur,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+280,India,14,Manipur,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+281,India,15,Mizoram,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,6575.53
+282,India,15,Mizoram,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,6575.53
+283,India,15,Mizoram,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,6978.59
+284,India,15,Mizoram,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,7526.71
+285,India,15,Mizoram,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,7684.6957
+286,India,15,Mizoram,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,8829.5949
+287,India,15,Mizoram,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,9800.96
+288,India,15,Mizoram,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,11901.55
+289,India,15,Mizoram,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,10623.2635
+290,India,15,Mizoram,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,13270.6734
+291,India,15,Mizoram,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,11528.4028
+292,India,15,Mizoram,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,14927.7081
+293,India,15,Mizoram,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,13202.103
+294,India,15,Mizoram,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,17661.3095
+295,India,15,Mizoram,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,13236.7125
+296,India,15,Mizoram,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,18648.9804
+297,India,15,Mizoram,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,15062.4195
+298,India,15,Mizoram,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,21716.8652
+299,India,15,Mizoram,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+300,India,15,Mizoram,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+301,India,16,Tripura,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,17006.17
+302,India,16,Tripura,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,17006.17
+303,India,16,Tripura,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,18510.9
+304,India,16,Tripura,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,19257.32
+305,India,16,Tripura,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,20149.84
+306,India,16,Tripura,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,22775.55
+307,India,16,Tripura,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,23942.0
+308,India,16,Tripura,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,25974.91
+309,India,16,Tripura,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,22830.76
+310,India,16,Tripura,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,31261.87
+311,India,16,Tripura,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,25559.03
+312,India,16,Tripura,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,33918.05
+313,India,16,Tripura,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,28354.74
+314,India,16,Tripura,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,38141.51
+315,India,16,Tripura,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,31146.87
+316,India,16,Tripura,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,42990.36
+317,India,16,Tripura,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,33912.81
+318,India,16,Tripura,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,48036.98
+319,India,16,Tripura,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,35137.1759
+320,India,16,Tripura,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,50148.2755
+321,India,17,Meghalaya,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,17032.0936
+322,India,17,Meghalaya,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,17032.0983
+323,India,17,Meghalaya,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,17278.48
+324,India,17,Meghalaya,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,18519.1763
+325,India,17,Meghalaya,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,17458.3149
+326,India,17,Meghalaya,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,19320.5814
+327,India,17,Meghalaya,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,16886.9941
+328,India,17,Meghalaya,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,19490.0795
+329,India,17,Meghalaya,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,16449.8499
+330,India,17,Meghalaya,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,20271.0674
+331,India,17,Meghalaya,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,17077.5155
+332,India,17,Meghalaya,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,21873.4639
+333,India,17,Meghalaya,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,18322.0116
+334,India,17,Meghalaya,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,24355.4935
+335,India,17,Meghalaya,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,19340.4963
+336,India,17,Meghalaya,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,26672.9151
+337,India,17,Meghalaya,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,20362.77
+338,India,17,Meghalaya,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,28519.3795
+339,India,17,Meghalaya,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,18503.9457
+340,India,17,Meghalaya,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,27071.8363
+341,India,18,Assam,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,121469.41
+342,India,18,Assam,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,121469.41
+343,India,18,Assam,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,124871.05
+344,India,18,Assam,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,133784.96
+345,India,18,Assam,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,130140.63
+346,India,18,Assam,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,150546.56
+347,India,18,Assam,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,136812.287
+348,India,18,Assam,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,161419.8589
+349,India,18,Assam,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,157193.363
+350,India,18,Assam,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,188524.4071
+351,India,18,Assam,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,164674.0165
+352,India,18,Assam,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,205329.5579
+353,India,18,Assam,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,182149.6421
+354,India,18,Assam,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,233267.2743
+355,India,18,Assam,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,182508.3485
+356,India,18,Assam,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,249436.4364
+357,India,18,Assam,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,184283.2425
+358,India,18,Assam,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,266745.4532
+359,India,18,Assam,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+360,India,18,Assam,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+361,India,19,West Bengal,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,451189.0
+362,India,19,West Bengal,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,451189.0
+363,India,19,West Bengal,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,470888.0
+364,India,19,West Bengal,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,514265.0
+365,India,19,West Bengal,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,483340.0
+366,India,19,West Bengal,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,583710.0
+367,India,19,West Bengal,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,497864.0
+368,India,19,West Bengal,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,612211.0
+369,India,19,West Bengal,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,524366.0
+370,India,19,West Bengal,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,678855.0
+371,India,19,West Bengal,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,563988.8
+372,India,19,West Bengal,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,740846.16
+373,India,19,West Bengal,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,604856.582
+374,India,19,West Bengal,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,829665.5694
+375,India,19,West Bengal,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,641293.4542
+376,India,19,West Bengal,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,929278.3356
+377,India,19,West Bengal,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,680575.3218
+378,India,19,West Bengal,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,1018660.58
+379,India,19,West Bengal,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,689078.4082
+380,India,19,West Bengal,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,1104866.47
+381,India,20,Jharkhand,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,125595.47
+382,India,20,Jharkhand,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,125595.47
+383,India,20,Jharkhand,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,136581.99
+384,India,20,Jharkhand,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,146407.08
+385,India,20,Jharkhand,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,136516.86
+386,India,20,Jharkhand,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,155996.0
+387,India,20,Jharkhand,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,155290.57
+388,India,20,Jharkhand,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,182628.02
+389,India,20,Jharkhand,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,141091.17
+390,India,20,Jharkhand,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,167741.05
+391,India,20,Jharkhand,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,155809.53
+392,India,20,Jharkhand,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,192412.01
+393,India,20,Jharkhand,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,168452.73
+394,India,20,Jharkhand,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,219878.2
+395,India,20,Jharkhand,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,186046.36
+396,India,20,Jharkhand,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,253545.51
+397,India,20,Jharkhand,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,189533.72
+398,India,20,Jharkhand,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,261913.97
+399,India,20,Jharkhand,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,179011.53
+400,India,20,Jharkhand,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,258773.73
+401,India,21,Odisha,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,193470.5645
+402,India,21,Odisha,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,193470.5645
+403,India,21,Odisha,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,204856.5131
+404,India,21,Odisha,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,220775.8257
+405,India,21,Odisha,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,219792.1063
+406,India,21,Odisha,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,244944.633
+407,India,21,Odisha,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,221105.4142
+408,India,21,Odisha,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,255875.1046
+409,India,21,Odisha,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,235604.4353
+410,India,21,Odisha,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,259935.5102
+411,India,21,Odisha,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,266980.0
+412,India,21,Odisha,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,304504.0
+413,India,21,Odisha,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,282828.0
+414,India,21,Odisha,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,338407.0
+415,India,21,Odisha,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,304266.0
+416,India,21,Odisha,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,388578.0
+417,India,21,Odisha,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,314183.0
+418,India,21,Odisha,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,411233.0
+419,India,21,Odisha,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,298945.0
+420,India,21,Odisha,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,398662.0
+421,India,22,Chhattisgarh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,132629.4261
+422,India,22,Chhattisgarh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,132629.4261
+423,India,22,Chhattisgarh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,138351.724
+424,India,22,Chhattisgarh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,148053.4137
+425,India,22,Chhattisgarh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,153469.39
+426,India,22,Chhattisgarh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,174643.44
+427,India,22,Chhattisgarh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,154774.34
+428,India,22,Chhattisgarh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,185263.19
+429,India,22,Chhattisgarh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,158440.0
+430,India,22,Chhattisgarh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,189201.77
+431,India,22,Chhattisgarh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,168494.0
+432,India,22,Chhattisgarh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,211384.0
+433,India,22,Chhattisgarh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,174041.67
+434,India,22,Chhattisgarh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,231560.62
+435,India,22,Chhattisgarh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,189815.75
+436,India,22,Chhattisgarh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,260149.68
+437,India,22,Chhattisgarh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,199825.12
+438,India,22,Chhattisgarh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,282662.16
+439,India,22,Chhattisgarh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,195260.83
+440,India,22,Chhattisgarh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,288359.36
+441,India,23,Madhya Pradesh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,270498.0
+442,India,23,Madhya Pradesh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,270498.0
+443,India,23,Madhya Pradesh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,293368.0
+444,India,23,Madhya Pradesh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,319431.0
+445,India,23,Madhya Pradesh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,302791.0
+446,India,23,Madhya Pradesh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,370441.0
+447,India,23,Madhya Pradesh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,318942.0
+448,India,23,Madhya Pradesh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,405288.0
+449,India,23,Madhya Pradesh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,341878.0
+450,India,23,Madhya Pradesh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,453142.0
+451,India,23,Madhya Pradesh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,386272.95
+452,India,23,Madhya Pradesh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,548462.57
+453,India,23,Madhya Pradesh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,405370.84
+454,India,23,Madhya Pradesh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,617932.56
+455,India,23,Madhya Pradesh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,428793.98
+456,India,23,Madhya Pradesh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,691049.77
+457,India,23,Madhya Pradesh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,472020.71
+458,India,23,Madhya Pradesh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,802765.55
+459,India,23,Madhya Pradesh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,447007.47
+460,India,23,Madhya Pradesh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,774015.71
+461,India,24,Gujarat,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,469124.4587
+462,India,24,Gujarat,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,469124.4629
+463,India,24,Gujarat,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,521013.6505
+464,India,24,Gujarat,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,555231.6827
+465,India,24,Gujarat,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,558696.4326
+466,India,24,Gujarat,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,620915.7173
+467,India,24,Gujarat,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,612710.7703
+468,India,24,Gujarat,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,707224.5299
+469,India,24,Gujarat,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,672945.1898
+470,India,24,Gujarat,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,780239.713
+471,India,24,Gujarat,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,728886.5718
+472,India,24,Gujarat,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,888683.1309
+473,India,24,Gujarat,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,810458.9682
+474,India,24,Gujarat,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,1010114.343
+475,India,24,Gujarat,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,878403.5988
+476,India,24,Gujarat,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,1139974.453
+477,India,24,Gujarat,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,940869.3828
+478,India,24,Gujarat,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,1245410.339
+479,India,24,Gujarat,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+480,India,24,Gujarat,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+481,India,27,Maharashtra,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,990643.6979
+482,India,27,Maharashtra,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,990643.6979
+483,India,27,Maharashtra,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,1045150.84
+484,India,27,Maharashtra,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,1117592.778
+485,India,27,Maharashtra,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,1112364.27
+486,India,27,Maharashtra,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,1268041.067
+487,India,27,Maharashtra,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,1178550.772
+488,India,27,Maharashtra,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,1361015.825
+489,India,27,Maharashtra,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,1266714.707
+490,India,27,Maharashtra,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,1489570.604
+491,India,27,Maharashtra,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,1388893.606
+492,India,27,Maharashtra,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,1665073.81
+493,India,27,Maharashtra,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,1461062.255
+494,India,27,Maharashtra,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,1792845.305
+495,India,27,Maharashtra,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,1541359.089
+496,India,27,Maharashtra,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,1965230.25
+497,India,27,Maharashtra,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,1617967.672
+498,India,27,Maharashtra,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,2152764.499
+499,India,27,Maharashtra,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+500,India,27,Maharashtra,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+501,India,28,Andhra Pradesh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,310346.52
+502,India,28,Andhra Pradesh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,310346.52
+503,India,28,Andhra Pradesh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,311720.29
+504,India,28,Andhra Pradesh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,338269.06
+505,India,28,Andhra Pradesh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,328709.52
+506,India,28,Andhra Pradesh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,375613.64
+507,India,28,Andhra Pradesh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,359510.83
+508,India,28,Andhra Pradesh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,433666.81
+509,India,28,Andhra Pradesh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,398843.66
+510,India,28,Andhra Pradesh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,497019.24
+511,India,28,Andhra Pradesh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,425080.5526
+512,India,28,Andhra Pradesh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,552435.7454
+513,India,28,Andhra Pradesh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,469758.0
+514,India,28,Andhra Pradesh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,645026.6213
+515,India,28,Andhra Pradesh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,489140.0
+516,India,28,Andhra Pradesh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,700198.1829
+517,India,28,Andhra Pradesh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,525267.0
+518,India,28,Andhra Pradesh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,780720.9135
+519,India,28,Andhra Pradesh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,512923.0
+520,India,28,Andhra Pradesh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,800813.7591
+521,India,29,Karnataka,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,501156.036
+522,India,29,Karnataka,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,501156.0352
+523,India,29,Karnataka,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,528642.0977
+524,India,29,Karnataka,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,572068.7125
+525,India,29,Karnataka,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,577481.6
+526,India,29,Karnataka,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,670276.3305
+527,India,29,Karnataka,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,606798.719
+528,India,29,Karnataka,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,743175.3899
+529,India,29,Karnataka,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,673936.1616
+530,India,29,Karnataka,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,848367.0098
+531,India,29,Karnataka,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,754816.0
+532,India,29,Karnataka,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,978423.0
+533,India,29,Karnataka,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,798901.0634
+534,India,29,Karnataka,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,1078542.143
+535,India,29,Karnataka,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,846501.2073
+536,India,29,Karnataka,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,1201929.578
+537,India,29,Karnataka,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,892772.2303
+538,India,29,Karnataka,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,1315148.115
+539,India,29,Karnataka,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,870209.1599
+540,India,29,Karnataka,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,1340349.945
+541,India,30,Goa,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,35047.5465
+542,India,30,Goa,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,35047.5481
+543,India,30,Goa,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,29424.8505
+544,India,30,Goa,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,31320.2671
+545,India,30,Goa,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,24589.1023
+546,India,30,Goa,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,28145.2943
+547,India,30,Goa,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,32737.1137
+548,India,30,Goa,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,38609.4002
+549,India,30,Goa,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,37364.2121
+550,India,30,Goa,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,44849.0831
+551,India,30,Goa,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,42030.1551
+552,India,30,Goa,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,51291.2136
+553,India,30,Goa,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,42687.4867
+554,India,30,Goa,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,54975.9437
+555,India,30,Goa,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,47469.6735
+556,India,30,Goa,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,57651.6553
+557,India,30,Goa,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,42722.0749
+558,India,30,Goa,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,59835.8695
+559,India,30,Goa,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+560,India,30,Goa,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+561,India,32,Kerala,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,300266.3429
+562,India,32,Kerala,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,300266.3429
+563,India,32,Kerala,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,317277.0755
+564,India,32,Kerala,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,340353.9937
+565,India,32,Kerala,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,333576.9131
+566,India,32,Kerala,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,381324.0528
+567,India,32,Kerala,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,348048.3255
+568,India,32,Kerala,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,419859.4681
+569,India,32,Kerala,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,366420.1994
+570,India,32,Kerala,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,453053.7419
+571,India,32,Kerala,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,393684.8307
+572,India,32,Kerala,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,505952.5476
+573,India,32,Kerala,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,417746.0298
+574,India,32,Kerala,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,565389.2963
+575,India,32,Kerala,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,444126.7194
+576,India,32,Kerala,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,619370.5102
+577,India,32,Kerala,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,454395.088
+578,India,32,Kerala,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,654711.5327
+579,India,32,Kerala,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+580,India,32,Kerala,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+581,India,33,Tamil Nadu,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,616014.71
+582,India,33,Tamil Nadu,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,616014.71
+583,India,33,Tamil Nadu,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,642593.0
+584,India,33,Tamil Nadu,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,698241.44
+585,India,33,Tamil Nadu,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,675124.09
+586,India,33,Tamil Nadu,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,778123.9
+587,India,33,Tamil Nadu,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,713000.72
+588,India,33,Tamil Nadu,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,867515.38
+589,India,33,Tamil Nadu,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,773945.99
+590,India,33,Tamil Nadu,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,956998.11
+591,India,33,Tamil Nadu,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,824823.2041
+592,India,33,Tamil Nadu,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,1053133.541
+593,India,33,Tamil Nadu,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,889005.4812
+594,India,33,Tamil Nadu,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,1183470.055
+595,India,33,Tamil Nadu,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,947106.238
+596,India,33,Tamil Nadu,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,1328281.553
+597,India,33,Tamil Nadu,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,997767.6311
+598,India,33,Tamil Nadu,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,1460662.409
+599,India,33,Tamil Nadu,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,1011926.741
+600,India,33,Tamil Nadu,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,1544935.266
+601,India,34,Puducherry,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,13153.56
+602,India,34,Puducherry,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,13153.56
+603,India,34,Puducherry,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,13283.37
+604,India,34,Puducherry,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,14580.34
+605,India,34,Puducherry,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,14913.4
+606,India,34,Puducherry,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,17096.52
+607,India,34,Puducherry,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,13664.4125
+608,India,34,Puducherry,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,17362.5729
+609,India,34,Puducherry,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,14560.915
+610,India,34,Puducherry,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,20862.1638
+611,India,34,Puducherry,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,15634.3701
+612,India,34,Puducherry,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,23241.7349
+613,India,34,Puducherry,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,17148.6385
+614,India,34,Puducherry,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,25300.4696
+615,India,34,Puducherry,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,21499.3033
+616,India,34,Puducherry,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,30557.3174
+617,India,34,Puducherry,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,21248.8973
+618,India,34,Puducherry,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,31386.519
+619,India,34,Puducherry,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,20356.815
+620,India,34,Puducherry,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,29783.0905
+621,India,35,Andaman And Nicobar Islands,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,3462.7417
+622,India,35,Andaman And Nicobar Islands,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,3462.7417
+623,India,35,Andaman And Nicobar Islands,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,3633.7212
+624,India,35,Andaman And Nicobar Islands,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,3874.0987
+625,India,35,Andaman And Nicobar Islands,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,3825.1106
+626,India,35,Andaman And Nicobar Islands,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,4303.5954
+627,India,35,Andaman And Nicobar Islands,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,4213.599
+628,India,35,Andaman And Nicobar Islands,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,4987.027
+629,India,35,Andaman And Nicobar Islands,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,4479.1736
+630,India,35,Andaman And Nicobar Islands,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,5354.4129
+631,India,35,Andaman And Nicobar Islands,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,5045.0485
+632,India,35,Andaman And Nicobar Islands,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,6006.1989
+633,India,35,Andaman And Nicobar Islands,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,5478.3405
+634,India,35,Andaman And Nicobar Islands,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,6727.8005
+635,India,35,Andaman And Nicobar Islands,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,5579.653
+636,India,35,Andaman And Nicobar Islands,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,7396.2519
+637,India,35,Andaman And Nicobar Islands,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,5819.1636
+638,India,35,Andaman And Nicobar Islands,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,7967.4215
+639,India,35,Andaman And Nicobar Islands,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,
+640,India,35,Andaman And Nicobar Islands,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,
+641,India,36,Telangana,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,301755.34
+642,India,36,Telangana,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,301755.34
+643,India,36,Telangana,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,309967.72
+644,India,36,Telangana,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,337698.79
+645,India,36,Telangana,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,323931.66
+646,India,36,Telangana,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,378430.7
+647,India,36,Telangana,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,339637.74
+648,India,36,Telangana,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,416930.33
+649,India,36,Telangana,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,376192.3724
+650,India,36,Telangana,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,475427.8113
+651,India,36,Telangana,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,407324.09
+652,India,36,Telangana,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,539672.53
+653,India,36,Telangana,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,441477.46
+654,India,36,Telangana,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,609554.28
+655,India,36,Telangana,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,484426.6987
+656,India,36,Telangana,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,700559.7146
+657,India,36,Telangana,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,513416.4945
+658,India,36,Telangana,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,785910.3879
+659,India,36,Telangana,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,510464.7281
+660,India,36,Telangana,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,810502.7151
+661,India,37,Ladakh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Constant Price,1394.907132690298024773332527
+662,India,37,Ladakh,2011,"Financial Year (Apr - Mar), 2011",2011-12,Current Price,1394.907132690298024773332527
+663,India,37,Ladakh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Constant Price,1389.810890992841094065882951
+664,India,37,Ladakh,2012,"Financial Year (Apr - Mar), 2012",2011-12,Current Price,1507.955643248906692349752896
+665,India,37,Ladakh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Constant Price,1446.884499506478673317720632
+666,India,37,Ladakh,2013,"Financial Year (Apr - Mar), 2013",2011-12,Current Price,1633.635950546562071343225455
+667,India,37,Ladakh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Constant Price,1368.752979859515383547137677
+668,India,37,Ladakh,2014,"Financial Year (Apr - Mar), 2014",2011-12,Current Price,1657.575978919557155902822686
+669,India,37,Ladakh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Constant Price,1640.120370416620220010237139
+670,India,37,Ladakh,2015,"Financial Year (Apr - Mar), 2015",2011-12,Current Price,2008.941988722032209901919012
+671,India,37,Ladakh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Constant Price,1686.345103055057600750805482
+672,India,37,Ladakh,2016,"Financial Year (Apr - Mar), 2016",2011-12,Current Price,2141.749957424803261892763372
+673,India,37,Ladakh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Constant Price,1736.938985184161899487279177
+674,India,37,Ladakh,2017,"Financial Year (Apr - Mar), 2017",2011-12,Current Price,2338.476530552529553773356155
+675,India,37,Ladakh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Constant Price,1869.508624990786442925839614
+676,India,37,Ladakh,2018,"Financial Year (Apr - Mar), 2018",2011-12,Current Price,2668.430502895616419849075186
+677,India,37,Ladakh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Constant Price,1903.073229384357381570677165
+678,India,37,Ladakh,2019,"Financial Year (Apr - Mar), 2019",2011-12,Current Price,2830.616486903776019215010481
+679,India,37,Ladakh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Constant Price,1893.712837984939681559053054
+680,India,37,Ladakh,2020,"Financial Year (Apr - Mar), 2020",2011-12,Current Price,2902.577048525679390964786164

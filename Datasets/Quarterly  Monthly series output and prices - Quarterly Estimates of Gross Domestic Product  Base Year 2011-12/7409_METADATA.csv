@@ -1,0 +1,17 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,"",0,"","","",Country
+Base year - 2011-12,D7409_3,Key Identifier,"",0,"","","",Base Year - 2011-12
+Price category,D7409_5,Key Identifier,"",0,"","","",Current or Constant Prices.
+Yearcode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+Quartercode,QuarterCode,Key Identifier,"",0,"","","",QuarterCode
+Quarter,Quarter,Key Identifier,"",0,"","","",Quarter
+Private final consumption expenditure ( pfce ),I7409_6,Numeric Variable,INR ( Indian Rupees ),10000000,sum,Not Applicable,Not Applicable,"Private Final Consumption Expenditure (PFCE) in crore. The estimates of Private Final Consumption Expenditure (PFCE) are compiled annually as apart of the National Account Statistics (NAS) by Central Statistics Office (CSO) using commodity flow approach. This approach makes use of the estimates of quantum and value of different commodities produced and available, flowing finally into the consumption process of houses and the private Non-Profit Institution Serving Household (NPISH) during the accounting year, which is generally the financial year. The sum of the commodity-wise estimates gives the aggregate estimates of the PFCE"
+Government final consumption expenditure ( gfce ),I7409_7,Numeric Variable,INR ( Indian Rupees ),10000000,sum,Not Applicable,Not Applicable,"Final consumption expenditure in crore. Final consumption expenditure of administrative departments is equivalent to the current expenditure on compensation of employees, purchase of non-durable goods and services net of sales and the consumption of Fixed Capital (CFC). Expenditure on durable goods, which are used for defence, are also treated as part of consumption expenditure of the Government."
+Gross fixed capital formation ( gfcf ),I7409_8,Numeric Variable,INR ( Indian Rupees ),10000000,sum,Not Applicable,Not Applicable,Gross fixed capital formation ( GFCF ) in crore. Gross fixed capital formation (GFCF) is primarily backed by public investment as government prioritised capital expenditure.
+Change in stock,I7409_9,Numeric Variable,INR ( Indian Rupees ),10000000,sum,Not Applicable,Not Applicable,Change in stock in crore. The data on change in stock for the public sector are based on the data on the stocks at the beginning and end of the financial year available from the budget documents and annual reports.
+Valuables,I7409_10,Numeric Variable,INR ( Indian Rupees ),10000000,sum,Not Applicable,Not Applicable,Valuables in crore
+Export of goods & services,I7409_11,Numeric Variable,INR ( Indian Rupees ),10000000,sum,Not Applicable,Not Applicable,Export of goods & Services in crore
+Import of goods & services,I7409_12,Numeric Variable,INR ( Indian Rupees ),10000000,sum,Not Applicable,Not Applicable,Import of goods & Services in crore
+Discrepancies,I7409_13,Numeric Variable,INR ( Indian Rupees ),10000000,sum,Not Applicable,Not Applicable,Discrepancies in crore. Differences in GDP aggregates are known as Statistical Discrepancies which are recognised in the United Nations System of National Accounts 2008
+Gdp at market prices,I7409_14,Numeric Variable,INR ( Indian Rupees ),10000000,sum,Not Applicable,Not Applicable,"Gross Domestic Product at market prices in crore is arrived at by adding consumption expenditure (both private and government), investment and net exports (exports minus imports)."

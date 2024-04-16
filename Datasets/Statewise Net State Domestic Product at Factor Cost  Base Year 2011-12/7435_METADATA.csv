@@ -1,0 +1,9 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Base year - 2011-12,D7435_3,Key Identifier,"",0,,"","",Base Year - 2011-12
+Price type,D7435_4,Key Identifier,"",0,,"","",Price type includes current and constant prices.
+Yearcode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+Net state domestic product ( nsdp ) at factor cost for the base year 2011-12,I7435_5,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Net State Domestic Product ( NSDP ) at factor cost in crore, the base year 2011-12. Data for the period 1985-86 to 2010-11 relate to NSDP at factor cost. The data prior to base year : 2011-12 relate to NSDP at factor cost."

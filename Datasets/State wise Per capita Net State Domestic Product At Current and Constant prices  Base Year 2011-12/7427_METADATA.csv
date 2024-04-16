@@ -1,0 +1,9 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Base year - 2011-12,D7427_2,Key Identifier,"",0,"","","",Base Year - 2011-12
+Price type,D7427_4,Key Identifier,"",0,"","","",Price type includes current and constant prices.
+Yearcode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+Per capita net state domestic product for the base year 2011-12,I7427_5,Numeric Variable,INR ( Indian Rupees ),1,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Per Capita Net State Domestic Product in rupees, the base year 2011-12. All-India data for period 1996-97 to 1999-00 is per capita Net National Product (NNP)."
