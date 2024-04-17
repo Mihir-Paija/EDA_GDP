@@ -1,0 +1,4 @@
+National Constant: https://docs.google.com/spreadsheets/d/1vMJ8sBlCpd7wVl-FHp2TsxThHjHEJK74XKhbesl7yOo/edit?usp=sharing
+National Current: https://docs.google.com/spreadsheets/d/1Ut1_r0Vs1TNrjX2hxbUGHOra-E7MU4ZXwMryGE1zD_s/edit?usp=sharing
+State Constant: https://docs.google.com/spreadsheets/d/1n2q1MkQiQObCxRVZO9_lwahwwoXbkcw9HHvR4T8FViU/edit?usp=sharing
+State Current: https://docs.google.com/spreadsheets/d/1yk5hiWktZZOpHaxsKCwjhXjXH1y4ov_qDALtRJL-HXs/edit?usp=sharing
